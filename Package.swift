@@ -15,7 +15,7 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "",
+            name: "DTFoundation",
             dependencies: []),
     ]
 )
